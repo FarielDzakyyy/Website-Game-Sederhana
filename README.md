@@ -1,2 +1,2 @@
 # Website-Game-Sederhana
-Repository website game sederhana
+Repository project website game sederhana
